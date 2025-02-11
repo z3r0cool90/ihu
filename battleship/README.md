@@ -40,7 +40,7 @@ https://users.iee.ihu.gr/~asidirop/adise/Lectures-Chess5/
 ## Οδηγίες Εγκατάστασης
 
  * Κάντε clone το project σε κάποιον φάκελο <br/>
-  `$ git clone https://github.com/iee-ihu-gr-course1941/Lectures21-chess.git`
+  `$ https://github.com/z3r0cool90/ihu.git`
 
  * Βεβαιωθείτε ότι ο φάκελος είναι προσβάσιμος από τον Apache Server. πιθανόν να χρειαστεί να καθορίσετε τις παρακάτω ρυθμίσεις.
 
