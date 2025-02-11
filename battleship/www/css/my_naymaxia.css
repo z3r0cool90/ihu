@@ -1,0 +1,65 @@
+IMG.piece {width: 3em; height:2.8em;}
+
+
+
+
+
+#naymaxia_board_A,
+#naymaxia_board_B {
+    width: 45%; /* Adjust the width of each table container */
+    height: 40px; /* Adjust the height of each square */
+    color: transparent; 
+    
+    
+}
+
+#player_names{
+    width: 100%;
+    display: flex;
+    vertical-align: middle;
+    position: relative;
+}
+
+#pl_1 , #pl_2 {
+    width: 25%;
+    text-align: center;
+}
+
+#empty_div {
+    width: 40%;
+}
+
+.table-container {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 50px;
+}
+
+.button-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 400px; /* Adjust the top margin as needed */
+}
+
+.green-button {
+    background-color:green;
+    color: white;
+    padding: 10px 30px;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    /* Add any additional styling */
+}
+
+#naymaxia_table_A td,
+#naymaxia_table_B td {
+    width: 45px;
+    height: 40px;
+    border: 1px solid black;
+    box-sizing: border-box; /* Ensure borders are included in the cell size */
+    background-color:lightgrey; /* Set the background color for all cells */
+}
+
+#game_initializer {
+    margin-left: 50px;
+}
